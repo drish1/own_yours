@@ -1,0 +1,33 @@
+#topbar{
+    display: flex;
+    height:60px;
+}
+img{
+    flex-basis: row;
+    height: 50px;
+    padding-left: 20px;
+}
+#abc{
+    flex-basis: row;
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+    padding-left: 1200px;
+    padding-top: 15px;
+}
+#xyz{
+    flex-basis: row;
+    text-decoration: none;
+    color: grey;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+#section{
+    height:500px;
+    width:100%;
+    background-image:url("front.png");
+    background-color: grey ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
